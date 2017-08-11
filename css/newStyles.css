@@ -1,0 +1,42 @@
+.row-footer{
+  background: #f1fcd4;
+  margin:0px auto;
+  padding:20px 0px 20px 0px;
+}
+
+.row-content{
+  background: #f1fcd4;
+  min-height: 400px;
+  border-bottom: 2px ridge;
+  padding: 150px 0px 150px 0px;
+}
+
+.jumbotron{
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #2ed102;
+  font-style: white;
+}
+
+.navbar-inverse{
+  background: #219900;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #219900;
+  background: #1A237E;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus{
+  color: #219900;
+  background: #1A237E;
+}
+
+.dropdown-menu{
+  color: #2ed102;
+  background: #219900;
+}
